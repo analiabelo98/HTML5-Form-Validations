@@ -135,7 +135,6 @@ window.onload = function() {
       state.classList.add("is-valid");
       state.style.background = "white";
       state.classList.remove("is-invalid");
-      myAlert.style.display = "none";
     }
 
     event.preventDefault();
